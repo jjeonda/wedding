@@ -1264,3 +1264,11 @@ a {
     color: #333;
   }
 }
+
+.greeting {
+  padding-bottom: var(--spacing-lg);   /* 6rem → 2.5rem */
+}
+
+.story {
+  padding-top: var(--spacing-lg);      /* 6rem → 2.5rem */
+}
